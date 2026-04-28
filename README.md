@@ -14,6 +14,25 @@ This project implements **Customer Segmentation** using K-Means clustering to gr
 
 ---
 
+## Key Insights
+
+### Segment Interpretations:
+
+1. **Conservative Customers** - Lower spending despite having good income
+2. **Low Budget Customers** - Low income and low spending
+3. **High Value Customers** - High income AND high spending (Premium segment)
+4. **Potential Customers** - Low income but high spending (Growth potential)
+5. **Impulsive Customers** - Moderate income with very high spending
+
+### Business Recommendations:
+- **Target High Value**: Premium products and loyalty programs
+- **Focus on Potential**: Income growth initiatives, up-sell opportunities
+- **Engage Impulsive**: Limited-time offers, exclusive deals
+- **Develop Conservative**: Value-focused messaging
+- **Support Low Budget**: Budget-friendly options, payment plans
+
+---
+
 ## Project Goals
 
 1. **Load & Explore Data** - Understand customer demographics and purchasing patterns
