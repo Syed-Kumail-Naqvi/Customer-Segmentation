@@ -8,6 +8,8 @@
 
 This project uses **K-Means Clustering** to segment mall customers into distinct groups based on their purchasing behavior and demographics. By analyzing customer data, we identify 5 key customer segments that enable targeted marketing strategies and personalized business approaches.
 
+Live-Project Link: https://customer-segmentation-frontend-phi.vercel.app
+
 **Key Objective:** Segment customers using Age, Annual Income, and Spending Score to drive targeted marketing strategies.
 
 ---
